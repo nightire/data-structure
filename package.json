@@ -1,0 +1,24 @@
+{
+  "name": "data-structure",
+  "version": "1.0.0",
+  "description": "This is where I start to tame the data structure & algorithem.",
+  "main": "index.js",
+  "scripts": {
+    "start": "mocha --growl --watch",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nightire/data-structure.git"
+  },
+  "author": "Albert Yu <dev.yufan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nightire/data-structure/issues"
+  },
+  "homepage": "https://github.com/nightire/data-structure",
+  "devDependencies": {
+    "growl": "^1.8.1",
+    "mocha": "^1.21.5"
+  }
+}
