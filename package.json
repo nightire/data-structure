@@ -4,7 +4,7 @@
   "description": "This is where I start to tame the data structure & algorithem.",
   "main": "index.js",
   "scripts": {
-    "start": "mocha --growl --watch",
+    "start": "mocha --watch",
     "test": "mocha"
   },
   "repository": {

@@ -1,2 +1,3 @@
---reporter list
+--growl
+--reporter spec
 --ui bdd
